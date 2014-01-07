@@ -1,0 +1,47 @@
+[UPDATE as of 11/1/2013] SavageCraft v4.8 Mod List for Minecraft 1.6.2 With Links
+
+	**REMEMBER THIS PACK IS STILL A BETA IT MAY STILL HAVE BUGS**
+SavageCraft Seed: -8755868830315699000 (With Biomes O' Plenty)
+TOTAL MODS: 64
+
+- Minecraft Forge v9.10.1.871 | http://files.minecraftforge.net/
+- Applied Energistics rv14-dev2-mc16x | http://ae-mod.info/Downloads/
+- Backpack Mod v1.18.17 | http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11817/
+- BiblioCraft v1.5.0 | http://www.bibliocraftmod.com/
+- Biomes O' Plenty v1.1.2 | https://github.com/Glitchfiend/BiomesOPlenty/releases
+- BuildCraft-Universal 1.6.4-4.1.0.11.2731 | http://www.mod-buildcraft.com
+- bspkrsCore v4.02 | http://www.minecraftforum.net/topic/1114612-164-bspkrs-mods-armorstatushud-directionhud-statuseffecthud/
+- ChickenChunks v1.3.3.2 | http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+- CodeChickenCore v0.9.0.5 | http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+- ComputerCraft v1.56 | http://www.computercraft.info/download/
+- Damage Indicators v2.9.1.1 | http://www.minecraftforum.net/topic/1536685-164162152forge-hit-splat-damage-indicators-v2906-rpg-ui-and-damage-amount-mod/
+- DartCraft vBETA 0.2.10 | http://www.minecraftforum.net/topic/1686840-164-dartcraft-beta-0210/
+- Enchanting Plus v1.16.4 | http://www.minecraftforum.net/topic/1528282-162152151sspsmp-enchanting-plus-v116v115v114/
+- Ender IO 0.3.2 | http://www.minecraftforum.net/topic/1937619-1624152-ender-io-how-many-pipes-in-one-block-now-03-good-huh/
+- EnderStorage v1.4.3.3 | http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+- Extra Utilities v0.3 (dev) | http://www.minecraftforum.net/topic/1776056-15-162-betaforge-extra-utilities-v024g/
+- Factorization v0.8.04beta17 | http://www.minecraftforum.net/topic/1351802-162-factorization-0804/
+- FlatSigns v1.4.0.15 | http://wiki.feed-the-beast.com/FlatSigns#Minecraft_1.6.2 *(This will cause a IDConflict with Galacticraft, I reccomend changing the FlatSigns ID to 3398)*
+- Forestry v2.3.0.6 | http://forestry.sengir.net/
+- Galacticraft v2.0.4.861 | http://micdoodle8.com/mods/galacticraft/downloads
+- Galacticraft-Planets v2.0.4.861 | http://micdoodle8.com/mods/galacticraft/downloads
+- Gravitation Suite v1.9.5 | http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
+- iChunUtil v2.1.0 | http://ichun.us/mods/
+- IndustrialCraft 2 v2.0.278-experimental | http://wiki.industrial-craft.net/index.php?title=Main_Page
+- InventoryTweaks v1.56-b77 | http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/
+- IronChest Universal v5.3.14.512 | http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/
+- LomLib Universal v1.0.7 | http://anthony-lomeli.net/?page_id=24
+- MicdoodleCore v2.0.4.861 | http://micdoodle8.com/
+- MoreStorage v2.1.1 | http://www.minecraftforum.net/topic/794402-162-sspsmp-morestorage-v211-forge-modloader/
+- Morph v0.3.0 | http://ichun.us/mods/
+- NEI Addons v1.9.0.r40 | http://www.minecraftforum.net/topic/1803460-nei-addons-v190-updated-to-mc-16x/
+- NEI Plugins v1.1.0.0pre1 | https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
+- (NEI) Not Enough Items v1.6.1.4 | http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/ 
+- SavageThings | Dev Version 0.0.4 (Not Available to Public)
+- Portal Gun v2.0.1 | http://ichun.us/
+- TF2 Mods v1.6.2a | http://www.minecraftforum.net/topic/334760-164smpssplan-team-fortress-2-teleporter-sentry-dispenser/
+- Tinkers Construct v1.4.5.1 | http://www.minecraftforum.net/topic/1659892-164tinkers-construct/
+- Translocator v1.1.0.12 | http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+- VeinMiner v0.5.0 | http://www.minecraftforum.net/topic/2033580-15x16xforgesmp-vein-miner-quickly-mine-veins-of-ore/
+- WR-CBE v1.4.0.5 | http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+- Zan's MiniMap | http://www.minecraftforum.net/topic/1116564-164-162-mamiyaotarus-mods-voxelmap-chatbubbles-etc/
