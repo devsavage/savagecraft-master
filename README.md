@@ -2,7 +2,7 @@ SavageCraft v7 is now in pre-release!
 ===========
 
 
-SavageCraft v7 is my biggest pack yet!
+SavageCraft v7 is my biggest pack yet!  
 This is just a personal repo for my files. You are welcome to take a look here. This is my perosnal Minecraft Mod List for
 Minecraft Version 1.6.4.
 
