@@ -1,49 +1,86 @@
-List Name: SavageCraft v6
-List Version: 6.0
+LList Name: SavageCraft
+List Version: 7.0
 Minecraft Version: 1.6.4
-Minecraft Forge/ModLoader Version: 9.11.1.953
-Total Mods: 80
-Last Updated: 12/3/2013
+Minecraft Forge/ModLoader Version: 9.11.1.965
+Total Mods: --
+Last Updated: 1/7/2014
 
 Mod List
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Applied Energistics rv14
+Applied Energistics rv14-finale3
 ArmorStatusHUD v1.15
-Backpack Mod v1.22.25
+Ars Magica 2 v1.0.2b
+Backpack Mod v1.26.29
 BetterStorage v0.7.3.38
-BiblioCraft v1.5.3
-BuildCraft v4.2.1
+BiblioCraft v1.5.4
+BiblioWoods Biomes O' Plenty Edition v1.3
+BiblioWoods Forestry Edition v1.3
+BiblioWoods Natura edition v1.1
+BILLUND v1.01
+Biomes O' Plenty v1.2.1.416
 bspkrsCore v5.0
+BuildCraft v4.2.1
+BuildCraft - Additional BuildCraft Objects v1.0.7.557
+BuildCraft Tools v1.4.a.9
 ChickenChunks v1.3.3.3
-CodeChickenCore v0.9.0.6
+CodeChickenCore v0.9.0.7
+CoFHCore v2.0.0.0
 ComputerCraft v1.57
-Damage Indicators v2.9.1.6
-DartCraft v0.2.13 (BETA)
+Damage Indicators v2.9.2.3
+DartCraft v0.2.14 (BETA)
+denLib v3.2.4
+denPipes v2.1.18
+denPipes Emerald v1.1.6
+denPipes Forestry v1.1.8
+EnderIO v0.4.1.40
 EnderStorage v1.4.3.5
+Equivalent Exchange 3 v0.1
 Extra Utilities v1.0.1
 Factorization v0.8.18
 Forestry v2.3.0.7
+Ganys End v1.5.4
+Gany's Nether v1.5.4
+Gany's Surface v1.5.5
+Gravity Gun v2.0.0
 Gravitation Suite v1.9.8
+Hats v2.0.2
+HopperDucts v1.2.2
 iChunUtil v2.4.0
-IndustrialCraft 2 v2.0.307 (EXPERIMENTAL)
+IndustrialCraft 2 v2.0.345 (EXPERIMENTAL)
 Inventory Tweaks v1.56 (BETA 77)
-Iron Chest-Universal v5.4.1.649
-LomLib-Universal v1.0.7
+Iron Chest-Universal v5.4.1.650
+JABBA v1.0.3
+KeithyUtils v1.2
+Logistics Pipes v0.7.4.dev.92
+LomLib v1.0.7
+MagicalCrops v3.1.3
+Map Writer v2.0.16
+MineFactory Reloaded v2.7.4-255
+Mob Amputation v2.0.1
+Mob Dismemberment v2.0.0
 Morph Mod v0.4.0
+MystCraft v0.10.11.00
+Natura v2.1.14
 NEI Addons v1.9.3.r47
 NEI Plugins v1.1.0.6
-Not Enough Items v1.6.1.5
+Not Enough Items v1.6.1.8
+Numina v0.1.0-45
+OpenBlocks v1.2.2
 Pam's Get all the Seeds v1.6.4
 Pam's HarvestCraft v1.1.4
 Portal Gun v2.0.1
-ProjectRed v4.0.5.13
-RailCraft v8.2.0.0
+PowerCrystal's Core v1.1.8-9
+Project:Red v4.2.2.19
+Quarry Plus v1.5.5.3
+RailCraft v8.3.2.0
+RandomThings v1.8.7
+RedstoneArsenal v1.0.0.0
 Soul Shards 2 v2.0.14
 Steve's Carts v2.0.0.b2
-TF2 Teleporters v1.6.4a
-Thermal Expansion v3.0.0.b8
+Tinkers Construct v1.5.2.4
+Thuamcraft v4.0.5b
+Thermal Expansion v3.0.0.0
 Translocator v1.1.0.13
-VeinMiner v0.8.3
+Tropicraft v5.1.6
+Twilight Forest v1.20.3
 Waila v1.4.1
-WR-CBE v1.4.0.6
-Zan's Minimap v1.6.4(VOXEL)
