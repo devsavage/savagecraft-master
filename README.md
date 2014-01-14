@@ -1,4 +1,4 @@
-SavageCraft v7 is now in pre-release!
+SavageCraft v7 is now in Beta!
 ===========
 
 
