@@ -10,7 +10,7 @@ Minecraft Version 1.6.4.
 [TwitchTV](http://www.twitch.tv/savageboy74)  
 [Pastebin](http://pastebin.com/EEpUUn7s)  
 
-*PLEASE NOTE THAT THE CONFIG FOLDER IS OUTDATED!*
+
 
 *NOTES:*
 ============
