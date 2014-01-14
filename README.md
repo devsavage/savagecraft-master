@@ -9,7 +9,7 @@ Minecraft Version 1.6.4.
 
 [Twitter](https://twitter.com/savageboy74)  
 [TwitchTV](http://www.twitch.tv/savageboy74)  
-[Pastebin](http://pastebin.com/EEpUUn7s)  
+[Pastebin](http://pastebin.com/RaQziHfC)  
 
 
 
