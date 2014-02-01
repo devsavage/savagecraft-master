@@ -249,7 +249,7 @@ looks {
     I:"Alumite ingot return"=3
 
     # Number of ingots returned from smelting Bronze in the smeltery
-    I:"Bronze ingot return"=3
+    I:"Bronze ingot return"=4
 
     # Number of ingots returned from smelting ores in the smeltery
     I:"Ingots per ore"=2
@@ -321,7 +321,7 @@ tools {
     I:Excavator=14069
     I:"Frying Pan"=14058
     I:Hammer=14070
-    I:Hoe=31698
+    I:Hoe=31677
     I:Longbow=14062
     I:Longsword=14056
     I:"Lumber Axe"=14061
