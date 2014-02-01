@@ -1,6 +1,6 @@
 SavageCraft v7 is Released!
 ===========
-Total Mods: 155
+Total Mods: 155  
 Current Version: 7.5.6
 
 SavageCraft v7 is my biggest pack yet!  
