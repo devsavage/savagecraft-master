@@ -1,9 +1,9 @@
-SavageCraft v7 is now in Beta!
+SavageCraft v7 is Released!
 ===========
-Total Mods: 148!
+Total Mods: 155
+Current Version: 7.5.6
 
 SavageCraft v7 is my biggest pack yet!  
-Total Mods: 141  
 This is just a personal repo for my files. You are welcome to take a look here. This is my perosnal Minecraft Mod List for
 Minecraft Version 1.6.4.
 
