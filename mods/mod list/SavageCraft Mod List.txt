@@ -1,10 +1,10 @@
-List Name: SavageCraft (Release)
-List Version: 7.5.6
+List Name: SavageCraft 7 (Release)
+List Version: 7.6.9
 Minecraft Version: 1.6.4
 Minecraft Forge/ModLoader Version: 9.11.1.965
 Minecraft Resource Pack: Soartex Fanver/Default
-Total Mods: 156
-Last Updated: 2/1/2014
+Total Mods: 157
+Last Updated: 2/7/2014
 
 Mod List
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -50,6 +50,7 @@ Gany's Nether v1.5.4
 Gany's Surface v1.5.5
 Gravity Gun v2.0.0
 Gravitation Suite v1.9.8
+Greg-Tech Addon v4.08e
 Hats v2.1.0
 Hat Stand v2.1.0
 Hopper Ducts v1.2.2
