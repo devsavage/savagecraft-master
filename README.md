@@ -15,5 +15,6 @@ Minecraft Version 1.6.4.
 
 *NOTES:*
 ============
+- I reccomend using the config files provided due to the addition of the Greg-Tech Addon.  
 - You can still find the *SavageCraft Mod List for Minecraft 1.6.2* under "SavageCraft v4.8 (MC1.6.2).txt"
 
