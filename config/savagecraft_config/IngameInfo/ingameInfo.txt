@@ -1,3 +1,0 @@
-<bottomleft>&fDay <day> (<daytime[&e/&8]><mctime[12]>&f) <slimes[<darkgreen>/&b]><biome>
-&aFPS: &b<fps>
-Actual Time: &b<rltime[h:mma]>
